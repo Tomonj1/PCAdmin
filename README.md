@@ -6,7 +6,7 @@
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`.
 
 Для установки всех библиотек, выполните эту команду в консоли:
-`pip install psutil python-telegram-bot mss pyautogui GPUtil`
+`pip install psutil python-telegram-bot mss pyautogui GPUtil pyinstaller`
 
 
 # EN
@@ -18,4 +18,4 @@ you simply run the `.exe` file, and that's it! The bot is automatically added to
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`.
 
 To install all the required libraries, run this command in the console:  
-`pip install psutil python-telegram-bot mss pyautogui GPUtil`
+`pip install psutil python-telegram-bot mss pyautogui GPUtil pyinstaller`
